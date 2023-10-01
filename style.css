@@ -1,0 +1,46 @@
+header {
+    text-align: center;
+    background-color: lightblue;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+p {
+    color: red;
+}
+
+
+
+#top {
+    text-align: center;  
+    color: blue;
+    background-color: yellow;
+}
+
+.bottom {
+    text-align: center; 
+    border: 1px solid black;
+}
+
+
+
+.background {
+    background-color: lightgrey;
+}
+
+
+div p {
+    color: green;
+}
+
+#paraOne {
+    color: blue;
+    background-color: #000000;
+}
+
+.paraTwo {
+    color: purple;
+}
+
